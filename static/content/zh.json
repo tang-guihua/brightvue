@@ -22,13 +22,13 @@
 	],
 	"productText": 
 			{
-				"a":"改性塑料",
-				"b":"包装材料",
-				"c":"板材型材",
-				"d":"电线电缆",
-				"e":"阻燃材料",
-				"f":"环氧及相关",
-				"g":"其他"
+				"0":"改性塑料",
+				"1":"包装材料",
+				"2":"板材型材",
+				"3":"电线电缆",
+				"4":"阻燃材料",
+				"5":"环氧及相关",
+				"6":"其他"
 			},
 	"wehope": "我们希望可以通过我们共同的努力将欧美的先进经验和技术本土化。我们不仅仅希望成为一家好的贸易伙伴，我们更加期待成为您的后盾，在技术和生产上提升您的价值，与您携手共进！",
 	"serivelink" :[
@@ -123,6 +123,142 @@
 		],
 		[
 			"1.8 合金"
+		]
+	],
+	"chaper3": [
+		"包装材料"
+	],
+	"chaper4": [
+		[
+			"2.1 多层共挤阻隔膜、片材",
+			"2.1.1 粘合树脂：Bondyram TL4108N Bondyram TL4110 Bondyram TL4112 Bondyram TL1207C Bondyram TL4402 Bondyram TL4530 Bondyram TL9201"
+		],
+		[
+			"2.2 化妆品软管",
+			"2.2.1 粘合树脂: Bondyram TL4110",
+			"2.2.2 润滑剂 TR016"
+		]
+	],
+	"chaper5": [
+		"板材型材"
+	],
+	"chaper6": [
+		[
+			"3.1 PE木塑",
+			"3.1.1 润滑剂：STRUKTOL TPW604/TPW613/SA1114",
+			"3.1.2 偶联剂：Scona TSPE 2102 GAHD/ Bondram4108/ Bondram5108/ Bondram1001",
+			"3.1.3 紫外稳定剂：VEMAB UV2628/UV2628L/UV2688",
+			"3.1.4 抗氧剂：VEMAB AO2626/ OKABEST™ PAT 550 C",
+			"3.1.5 共挤面料：STRUKTOL SA1242/SA1323 STRUKTOL SA1242",
+			"3.1.6 粘着增韧剂：BYK 9103",
+			"3.1.7 阻燃共挤面料：BFC-FR470"
+		],
+		[
+			"3.2 PVC木塑",
+			"3.2.1 润滑剂：STRUKTOL TPW012/TR251/TR016/BF OPE",
+			"3.2.2 泡孔调节剂：CLAY 80T",
+			"3.2.3 聚合物型无卤阻燃增塑剂：NOFIA CO6000"
+		],
+		[
+			"3.3 PP木塑",
+			"3.3.1 润滑剂：STRUKTOL TPW604",
+			"3.3.2偶联剂：Bondram1001/1101"
+		]
+	],
+	"chaper10": [
+		"电线电缆"
+	],
+	"chaper11": [
+		[
+			"4.1.低烟无卤料:高性能的阻燃协效剂，用于帮助通过高阻燃等级需求的电线电缆阻燃测试，如CPR B2，B1级低烟无卤料，GB31247 B1,B2料，成束燃烧A类料（IEC60332-3, GB18380-2008），UL1581 VW-1，陶瓷化聚烯烃料等。",
+			"4.1.1阻燃协效剂TOLSA ADINS Clay20/80T",
+			"4.1.2润滑分散剂 STRUKTOL TR041/TR131",
+			"4.1.3抗铜剂：OKABEST™ PAT 550 C PAT 550 C",
+			"4.1.4抗氧剂：OKABEST™ PAT 219 B/ OKABEST™ CLX 88",
+			"4.1.5膨胀阻燃剂：BUDENHEIM BUDIT™ 667"
+		],
+		[
+			"4.3. 尼龙线缆料",
+			"4.3.1增韧剂：Bondyram 7103、7107",
+			"4.3.2热稳定剂：OKAFLEXTM EM/ OKABEST™ CLX 88"
+		],
+		[
+			"4.4. 热塑性弹性体线缆料",
+			"4.4.1 TPE-S 阻燃协效剂TOLSA ADINS Clay20 马来酸酐接枝物：SCONA TSKD 9103/Bondyram 7103 抗氧剂：PAT219 膨胀阻燃剂：BUDENHEIM BUDIT™ 667 BUDIT™ 667",
+			"4.4.1 TPE-S 阻燃协效剂TOLSA ADINS Clay20 马来酸酐接枝物：SCONA TSKD 9103/Bondyram 7103 抗氧剂：PAT219 膨胀阻燃剂：BUDENHEIM BUDIT™ 667 BUDIT™ 667 4.4.2 TPU 聚合型含磷阻燃剂：NOFIA HM1100/OL5000 膨胀型阻燃剂：BUDENHEIM BUDIT™ 344",
+			"4.4.3 TPEE 聚合型含磷阻燃剂：NOFIA CO6000/OL5000 阻燃协效剂TOLSA ADINS Clay80T"
+		],
+		[
+			"4.5. 橡胶类线缆料",
+			"4.5.1 阻燃协效剂TOLSA ADINS Clay SIL/80T/Fireproof SIL"
+		]
+	],
+	"chaper12": [
+		"阻燃材料"
+	],
+	"chaper13": [
+		[
+			"5.1 PP/PE/EVA 阻燃体系",
+			"5.1.1 膨胀阻燃剂：BUDENHEIM BUDIT™ 667/678",
+			"5.1.2 阻燃协效剂：ADINS CLAY20"
+		],
+		[
+			"5.2 PET  合成、改性",
+			"5.2.1 聚磷酸酯阻燃剂：FRX HM1100",
+			"5.2.2 协效阻燃剂：CLAY SIL"
+		],
+		[
+			"5.3 PBT改性",
+			"5.3.1无卤阻燃剂：FRX HM1100/CO6000",
+			"5.3.2 协效阻燃剂：CLAY SIL"
+		],
+		[
+			"5.4 PC及 PC合金",
+			"5.4.1 聚合物型无卤阻燃剂：FRX HM1100/CO6000",
+			"5.4.2 协效阻燃剂：CLAY SIL"
+		],
+		[
+			"5.5 TPU",
+			"5.5.1 聚合物型含磷阻燃剂：NOFIA HM1100/OL5000",
+			"5.5.2 膨胀型阻燃剂：BUDENHEIM BUDIT™ 344"
+		],
+		[
+			"5.6 TPEE",
+			"5.6.1 聚合物型含磷阻燃剂：NOFIA CO6000/OL5000",
+			"5.6.2 阻燃协效剂TOLSA ADINS Clay80T"
+		],
+		[
+			"5.7 TPE-s",
+			"5.7.1 膨胀阻燃剂：BUDENHEIM BUDIT™ 667",
+			"5.7.2 阻燃协效剂TOLSA ADINS Clay20"
+		],
+		[
+			"5.8 环氧",
+			"5.8.1 阻燃剂：NOFIA OL3001&OL1001"
+		],
+		[
+			"5.9 UPET",
+			"5.9.1 阻燃剂：NOFIA OL50000"
+		]
+	],
+	"chaper14": [
+		"环氧及相关"
+	],
+	"chaper15": [
+		[
+			"6.1 促进剂",
+			"6.1.1 酸酐固化促进剂 3100S，AO-4",
+			"6.1.2 树脂合成催化剂 2000S，OA"
+		]
+	],
+	"chaper16": [
+		"其他"
+	],
+	"chaper17": [
+		[
+			"7.1 清洗树脂",
+			"7.1.1 Ramclean204",
+			"7.1.2 Ramclean600"
 		]
 	],
 	"chapter3":[
