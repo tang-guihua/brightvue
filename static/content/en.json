@@ -23,9 +23,9 @@
 	"productText": 
 			{
 				"0":"Modified plastics",
-				"1":"Packaging",
+				"1":"Packaging materials",
 				"2":"Sheet metal profile",
-				"3":"Wire and cable",
+				"3":"Wire & Cable",
 				"4":"Flame retardant material",
 				"5":"Epoxy and related",
 				"6":"Other"
@@ -51,7 +51,7 @@
 	"mainText":"上海壮景化工有限公司（Shanghai Brightfield Chemical Co., Ltd.) ，是一家专注于塑料工业发展，以技术为导向的助剂，解决方案供应商。依托多年和国外助剂供应商的默契合作，依托多年和客户的贸易经验，壮景化工成为了专业服务于热塑性和热固性行业的可靠的特种化学品供应商，服务和成就众多国内外客户。",
 	"prouductDetail":
 		{
-			"Modified plastics":1,"Packaging":2,"Sheet metal profile":3,"Wire and cable":4,"Flame retardant material":5,"Epoxy and related":6,"Other":7
+			"Modified plastics":1,"Packaging materials":2,"Sheet metal profile":3,"Wire & Cable":4,"Flame retardant material":5,"Epoxy and related":6,"Other":7
 		},
 	"tesv":"Technical service",
 	"tabs": [{"name": "Introduction to Laboratory"}, {"name": "Enterprise qualification"} ,{"name": "Q&A"},{"name": " Online feedback"}],
