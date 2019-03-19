@@ -2,14 +2,14 @@
   "charpter-one": {
   	"cp-one-top" :{
   		"title": [
-  			"Home","关于我们","帮助","联系我们","语言"
+  			"Home","About us","Help","Contact us","Language"
   		]
   	},
   	"cp-two-top": [
-  		"服务邮箱","服务热线"
+  		"Service mailbox","Hotline"
   	],
   	"cp-three-top": [
-  		"Home","关于我们","Product Introduction","Technical Service","企业责任","人才招聘"
+  		"Home","About us","Product Introduction","Technical Service","Responsibility"," Recruitment"
   	]
   },
   "chapter1":[
@@ -22,17 +22,17 @@
 	],
 	"productText": 
 			{
-				"0":"改性塑料",
-				"1":"包装材料",
-				"2":"板材型材",
-				"3":"电线电缆",
-				"4":"阻燃材料",
-				"5":"环氧及相关",
-				"6":"其他"
+				"0":"Modified plastics",
+				"1":"Packaging",
+				"2":"Sheet metal profile",
+				"3":"Wire and cable",
+				"4":"Flame retardant material",
+				"5":"Epoxy and related",
+				"6":"Other"
 			},
 	"wehope": "我们希望可以通过我们共同的努力将欧美的先进经验和技术本土化。我们不仅仅希望成为一家好的贸易伙伴，我们更加期待成为您的后盾，在技术和生产上提升您的价值，与您携手共进！",
 	"serivelink" :[
-		"所有产品","技术支持","资料下载","在线咨询","电子邮件","友情链接"
+		"All products","Technical support","Data download","Online consultation","E-mail","Friendship link"
 	],
 	"chapter2":[
 		{
@@ -51,10 +51,10 @@
 	"mainText":"上海壮景化工有限公司（Shanghai Brightfield Chemical Co., Ltd.) ，是一家专注于塑料工业发展，以技术为导向的助剂，解决方案供应商。依托多年和国外助剂供应商的默契合作，依托多年和客户的贸易经验，壮景化工成为了专业服务于热塑性和热固性行业的可靠的特种化学品供应商，服务和成就众多国内外客户。",
 	"prouductDetail":
 		{
-			"改性塑料":1,"包装材料":2,"板材型材":3,"电线电缆":4,"阻燃材料":5,"环氧及相关":6,"其他":7
+			"Modified plastics":1,"Packaging":2,"Sheet metal profile":3,"Wire and cable":4,"Flame retardant material":5,"Epoxy and related":6,"Other":7
 		},
-	"tesv":"技术服务",
-	"tabs": [{"name": "实验室简介"}, {"name": "企业资质"} ,{"name": "Q&A问题"},{"name": "在线反馈"}],
+	"tesv":"Technical service",
+	"tabs": [{"name": "Introduction to Laboratory"}, {"name": "Enterprise qualification"} ,{"name": "Q&A"},{"name": " Online feedback"}],
 	"mainWord": 
 		{
 			"chTitle":"Laboratory introduction",
@@ -285,8 +285,8 @@
 		]
 	],
 	"chapter3":[
-		{	"title":"细致周到 精诚共进",
-			"entitle":"Meticulous and thoughtful Sincere cooperation",
+		{	"title":"Meticulous and thoughtful Sincere cooperation",
+			"entitle":"",
 			"inner1":"上海壮景化工有限公司（Shanghai Brightfield Chemical Co., Ltd.) ，是一家专注于塑料工业发展，以技术为导向的助剂，解决方案供应商。依托多年和国外助剂供应商的默契合作，依托多年和客户的贸易经验，壮景化工成为了专业服务于热塑性和热固性行业的可靠的特种化学品供应商，服务和成就众多国内外客户。",
 			"inner2":"上海壮景化工有限公司本着 \"细致周到，精诚共进，相互成就\" 的原则，将自身强大的技术，贸易和资源相结合，旨在为广大的生产企业提供高品质的产品和一流的服务。我们的供应商与我们紧密联系，随时随地准备提供我们周到的服务和技术支持。我们重视每一位客户的需求，并希望与我们的客户共同发展！",
 			"inner3":"我们常年备有现货，为客户提供门到门的完善物流服务；我们备有丰富的样品和资料，供客户了解和实验；我们定期邀请国外专家做面对面的技术交流，并根据客户要求提出解决方案，优化技术和生产；我们有最优秀的技术和销售服务人员，提供全面的售前售后服务；多年累积我们已经有强大的客户群体，一起探讨和解决各种行业性问题，促进和推动行业的技术发展，提高生产水平。",
@@ -294,10 +294,10 @@
 		}
 	],
 	"chapter4":[
-		{"title":"我们重视每一个客户的需求",
-			"title1":"我们希望与我们的客户共同发展",
-			"entitle":"We attach importance to the needs of every customer",
-			"entitle1":"We hope to develop together with our customers"
+		{"title":"We attach importance to the needs of every customer",
+			"title1":"We hope to develop together with our customers",
+			"entitle":"",
+			"entitle1":""
 		}
 	],
 	"chapter5":[
@@ -324,17 +324,17 @@
 	],
 	"chapter6":[
 		{
-			"title":"和客户细致合作解决用户的问题",
-			"title1":"提升用户的产品竞争力",
-			"entitle":"Meticulous cooperation with customers Solve user problems",
-			"entitle1":"Enhance the competitiveness of users' products",
+			"title":"Meticulous cooperation with customers Solve user problems",
+			"title1":"Enhance the competitiveness of users' products",
+			"entitle":"",
+			"entitle1":"",
 			"inner":"我们希望可以通过我们共同的努力将欧美的先进经验和技术本土化。",
 			"inner1":"我们不仅仅希望成为一家好的贸易伙伴，我们更加期待成为您的后盾，在技术和生产上提升您的价值，与您携手共进！"
 		}
 	],
 	"chaper7":{
-		"cntitle":"人才招聘 .",
-		"entitle":" Recruitment"
+		"cntitle":"Recruitment",
+		"entitle":""
 	},
 	"charper8":{
 		"littletitle":"加入壮景化工",
@@ -384,11 +384,11 @@
 	],
 	"mainWord3": 
 		{
-			"chTitle":"Q&A问题",
-			"enTitle":" Q&A problem"
+			"chTitle":"Q&A problem",
+			"enTitle":""
 		},
 	"title": [
-		"木塑、PVC技术热点问题","Hot issues of wood plastic and PVC Technology"
+		"Hot issues of wood plastic and PVC Technology",""
 	],
 	"qaword": [
 		[
@@ -422,9 +422,15 @@
 			"enTitle":""
 		},
 	"bottomWord":[
-		"Home","关于我们","帮助","联系我们","语言"
+		"Home","About us","Help","Contact us","Language"
 	],
 	"searchpro":[
-		"产品搜索","按产品搜索","按系列搜索"
+		"Product search","Search by product","Search by series"
+	],
+	"onlineFacebook": [
+		"Required","Name","Tel","Multiple phone numbers, split by \"/\"","Fax","It is suggested that you fill in the form so as to get in touch with you in time","This is a common way to keep in touch, please fill in the true!","Post","Add","Details","Determine"
+	],
+	"Suppliers": [
+		"Excellent Suppliers with Certain Influences in the Auxiliary Industry","We continue to achieve value added for our customers"
 	]
 }
